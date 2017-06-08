@@ -1,0 +1,2097 @@
+/*
+
+ * FONT
+
+ */
+
+
+
+.navbar-main > li > a {
+
+    font-family: "Alegreya Sans";
+
+    text-transform: uppercase;
+
+}
+
+a, h3, li, h4{
+
+	font-family: "Alegreya Sans";
+
+}
+
+h4.text-center {
+
+    letter-spacing: 0.5px;
+
+}
+
+
+
+h4{
+
+	font-size: 24px;
+
+    color: #5E646E;
+
+}
+
+h3{
+    font-weight: normal;
+
+}
+
+h2{
+
+	letter-spacing: 1px;
+
+	font-size: 35px;
+
+	font-family: "Alegreya Sans";
+
+}
+
+h1{
+
+	letter-spacing: 1px;
+
+	font-size: 40px;
+
+	font-family: "Alegreya Sans";
+
+}
+
+.bg-vorteile-white-first h1 {
+
+    text-transform: uppercase;
+
+    margin-bottom: 8%;
+
+}
+
+p{
+
+	font-family: "Alegreya Sans";
+
+	font-size: 18px;
+
+    margin-bottom: 5px;
+
+    margin-top: 5px;
+
+
+}
+
+
+
+.container p.text-center{
+
+	color: #5E646E;
+
+}
+
+.bg-light-grey p.text-center{
+
+	color: black;
+
+}
+
+.container a {
+
+    color: #333333 !important;
+
+    text-decoration: none;
+
+}
+
+a.collapsed {
+
+    color: white !important;
+
+}
+
+
+ul.nav.navbar-nav.navbar-main a {
+
+    font-weight: normal !important;
+
+}
+
+.small-frame-above-below {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.social {
+
+    display: none;
+
+}
+
+
+
+.bg-vorteile-white-first h2 {
+
+    text-transform: uppercase;
+
+}
+
+/*
+
+ * blog
+
+ */
+
+
+img.reference-header-image {
+    width: 100%;
+    height: auto;
+}
+.box-picture {
+    padding-bottom: 15px;
+}
+
+.news-list-view img {
+
+    float: left;
+
+    width: auto;
+
+    height: auto;
+
+    max-width: 100%;
+
+}
+
+/*PAge 10 special*/
+#page-10 span.text-center {
+    text-align: center;
+    font-family: "Alegreya Sans";
+    font-size: 36px;
+    color: #333333;
+    letter-spacing: 1px;
+}
+
+.news-list-view .col-md-4{
+
+	padding: 0;
+
+}
+
+.news .article h1 {
+    margin-bottom: 0;
+    padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+
+
+.news .article .news-img-wrap{
+
+	margin-left: 0;
+
+    margin-right: 0;
+
+    height: auto;
+
+    max-width: 100%;
+
+}
+
+.list-news-photo img {
+
+	float: left;
+
+    width: auto;
+
+    height: auto;
+
+    max-width: 100%;
+
+}
+
+
+
+.detali-news-photo img {
+
+    width: 100%;
+
+    height: auto;
+
+}
+.news .article .news-img-wrap a {
+    display: block;
+    float: left;
+    padding: 4px;
+    border: none;
+    background: #fff;
+    width: 100%;
+}
+.mediaelement.mediaelement-image a {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.news-single .article .news-img-wrap {
+
+    float: none;
+
+    width: 100%;
+
+}
+
+.news-single .article .news-img-wrap img {
+
+    float: none;
+
+    width: 100%;
+
+}
+
+.news-single .footer, .news .footer{
+
+	border: none;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+
+
+a.more {
+
+    background-color: #305985;
+
+	padding: 6px 40px;
+
+    color: white !important;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.5px;
+
+    font-weight: normal;
+
+}
+
+
+
+.news-backlink-wrap a{
+
+    background-color: #305985;
+
+    padding-left: 30px;
+
+    padding-right: 30px;
+
+    padding-top: 2px;
+
+    padding-bottom: 2px;
+
+    color: white !important;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.5px;
+
+    font-weight: normal;
+
+}
+
+/*
+
+ * vorteile
+
+ */
+
+
+
+.bg-vorteile-light-grey .texticon.texticon-top {
+
+    min-height: 215px;
+
+}
+
+
+
+
+
+span.glyphicon.glyphicon-arrow-down {
+
+    font-size: 17px;
+
+}
+
+.bg-vorteile-light-grey{
+
+	    background-color: #ececec;
+
+}
+
+
+
+.bg-vorteile-darker-grey {
+
+	background-color: #c7c7c7;
+
+}
+
+
+
+.bg-vorteile-dark-grey {
+
+	background-color:  #a2a6a9;
+
+}
+
+
+
+.texticon-top .texticon-icon {
+
+    margin-bottom: 24px;
+
+    margin-top: 24px;
+
+}
+
+
+
+.bg-vorteile-light-grey h3, .bg-vorteile-darker-grey h3, .bg-vorteile-dark-grey h3{
+
+	margin-top: 20px;
+
+}
+
+
+
+.bg-vorteile-light-grey .frame, .bg-vorteile-darker-grey .frame,.bg-vorteile-dark-grey .frame{
+
+	margin-bottom: 20px;
+
+}
+
+.bg-vorteile-white .image {
+
+    margin-top: 24px;
+
+}
+
+
+
+.bg-vorteile-white p.text-center {
+
+    margin-top: 0;
+
+}
+
+
+
+/*
+
+ * kunden
+
+ */
+
+
+
+section.container.bg-color-darkblue{
+
+	height: 550px;
+
+	margin-bottom: 6%;
+
+    margin-top: 6%;
+
+}
+
+section.container.bg-color-darkblue .col-md-4{
+
+	height: 100%;
+
+	padding: 0;
+
+}
+
+section.container.bg-color-darkblue .col-md-6 .frame.default {
+
+    min-height: 250px;
+
+    margin-bottom: 25px;
+
+    border-bottom: 1px solid #eeeeee;
+
+
+
+}
+
+/*
+ * kunden - backendlayout
+ */
+
+.kunden-bg-dark-grey {
+
+    background-color: #99a0a7;
+
+    color: white;
+
+}
+
+.kunden-bg-dark-grey h1{
+
+	text-transform: uppercase;
+
+	letter-spacing: 0.5px;
+
+}
+
+.kunden-bg-dark-grey p.text-center{
+
+	color: white;
+
+}
+
+
+
+.kunden-bg-dark-grey p {
+
+    line-height: 29px;
+
+    letter-spacing: 0.5px;
+
+}
+
+
+
+.kunden-bg-dark-grey img.lazyload {
+
+    border: 2px solid white;
+
+}
+
+
+
+.kunden-bg-light-grey {
+
+    padding-top: 3%;
+
+    background-color: #e3e5e8;
+
+}
+
+
+
+
+
+/*
+
+ * so geht´s
+
+ */
+
+.sogehts-bg-light-grey {
+
+    height: 600px;
+
+    background-image: url("../images/Beratung_69405309.jpg");
+
+}
+
+.sogehts-bg-dark-grey {
+
+    background-color: #c7c7c7;
+
+}
+.sogehts-bg-grey{
+	background-color: #ececec;
+}
+
+
+
+
+.sogehts-bg-dark-grey figure.image{
+
+    margin-bottom: 24px;
+
+    margin-top: 24px;
+
+}
+
+/*FOOTER*/
+
+.footer-section{
+
+	background-image: url("../images/Bluefooter.jpg");
+
+	border-top: none;
+
+	background-repeat: none;
+
+}
+
+
+.footer-section a{
+
+    color: #c8d2db;
+
+}
+
+
+
+.footer-section p{
+
+    color: #c8d2db;
+
+    font-size: 12px;
+
+}
+
+
+
+.footer-section hr {
+
+    margin-top: 0;
+
+    margin-bottom: 0;
+
+}
+
+
+
+.footer-section a {
+
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+.footer-section .fa {
+
+    padding-top: 75px;
+
+}
+section.footer-section .frame {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.fa {
+
+    font-size: 30px;
+
+    letter-spacing: 21px;
+
+    color: #95bdd7;
+
+}
+
+
+
+label.newsletter_title {
+
+    text-transform: uppercase;
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    font-weight: normal;
+
+    letter-spacing: 1px;
+
+    font-size: 10px;
+
+}
+
+.newsletter {
+
+    margin-top: 10px;
+
+    display: block;
+
+    height: 26px;
+
+}
+
+
+
+::-webkit-input-placeholder {
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    font-size: small;
+
+}
+
+
+
+/*
+
+ * startseite background
+
+ */
+
+.bg-light-grey {
+
+    background-color: #ececec;
+
+        padding-bottom: 60px;
+
+}
+
+.bg-light-grey .frame {
+
+	margin-top: 40px;
+
+	margin-bottom: 0;
+
+}
+
+.bg-darker-grey {
+
+    background-color: #a2a6a9;
+
+    color: white;
+
+        padding-bottom: 60px;
+
+}
+
+.bg-darker-grey p.text-center, .bg-darker-grey a{
+
+	color: white !important;
+
+}
+
+.bg-darker-grey .frame {
+
+	margin-top: 40px;
+
+	margin-bottom: 0px;
+
+}
+
+.bg-dark-grey{
+
+	background-color: #c7c7c7;
+
+}
+
+.bg-dark-grey .frame {
+
+	margin-top: 40px;
+
+	margin-bottom: 40px;
+
+}
+
+
+
+
+.bg-white .fa {
+
+    font-size: 40px;
+
+    color: #606672;
+
+    padding-left: 0%;
+
+}
+
+
+.bg-dark-grey .row.news-list-item{
+
+	border: none;
+
+}
+
+
+
+h3.text-center {
+
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+/*HEADER*/
+
+header {
+
+    background-color: transparent;
+
+    background-repeat: no-repeat;
+
+    background-position: center top;
+
+    background-attachment: fixed;
+
+    width: 100%;
+
+    min-height: 100%;
+
+    position: relative;
+
+    transition: background-image 1000ms ease-out 0s;
+
+    padding-bottom: 50px;
+
+}
+
+
+fieldset.powermail_fieldset.powermail_fieldset_2 {
+    padding-bottom: 20px;
+}
+
+
+
+p.btn-direct-zur-anfrage {
+
+    background-color: #305985;
+
+    border: 1px solid #305985;
+
+    color: white;
+
+   	font-size: 20px;
+
+	padding: 3px;
+	
+    margin-top: 7px;
+}
+
+
+
+i.fa.fa-home {
+
+    letter-spacing: 0px;
+
+    color: white;
+
+    font-size: 25px;
+
+}
+
+
+.navbar-default {
+
+    background-color: transparent;
+
+    border-color: #eeeeee;
+
+}
+
+
+
+header.navbar.navbar-default.navbar-top {
+
+    position: absolute;
+
+    z-index: 99;
+
+}
+
+section.container.header .col-md-6 {
+
+    background-color: rgba(13, 14, 13, 0.53);
+
+	color: white;
+
+}
+
+i.fa.fa-chevron-down {
+
+    letter-spacing: 0px;
+
+}
+
+
+
+
+
+#direct-icon {
+
+    padding-top: 15px;
+
+    margin-bottom: -32px;
+
+}
+
+
+
+.item.active.carousel-item-type.carousel-item-type-backgroundimage {
+
+    height: 350px;
+
+}
+
+
+
+.navbar {
+
+    border: 0px;
+
+    min-height: 0px;
+
+}
+
+
+
+
+.navbar-header-main .navbar-header-border-bottom {
+
+    display: none;
+
+    left: 50%;
+
+    bottom: -1px;
+
+    position: absolute;
+
+    margin-left: -100%;
+
+    width: 0;
+
+    background-color: #eeeeee;
+
+    height: 1px;
+
+}
+
+
+
+
+
+/*
+
+ * header homepage
+
+ */
+
+.row.header h1.text-center, .row.header h2.text-center {
+
+    margin-top: 22px;
+
+    font-size: 40px;
+
+    border-bottom: 1px solid white;
+
+}
+
+.row.header p.text-center {
+
+    font-size: 23px;
+
+}
+
+
+
+h1.text-center {
+
+    font-size: 36px;
+
+}
+
+
+
+.row.header .fa{
+
+	font-size: 54px;
+
+	color: white;
+
+}
+
+.row.header .frame.default {
+
+    margin-bottom: 0px;
+    margin-top: 35px;
+
+}
+
+.row.header.active .frame.default {
+
+    margin-bottom: 0px;
+	margin-top: 35px;
+}
+
+section.container.header p {
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+}
+
+
+
+section.container.header h4 {
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    font-weight: bold;
+
+    font-size: large;
+
+}
+
+.no-frame {
+    margin: 0px;
+}
+
+.container-header {
+
+	height: 84px;
+
+	border-bottom: 1px solid #fff;
+
+	position: fixed;
+
+	width: 100%;
+
+
+
+	-webkit-transition: background-color 3s ease-in-out;
+
+	-moz-transition: background-color 3s ease-in-out;
+
+	-ms-transition: background-color 3s ease-in-out;
+
+	-o-transition: background-color 3s ease-in-out;
+
+	transition: background-color 3s ease-in-out;
+
+
+
+}
+
+
+
+.container-header.ready:not(.on-top) {
+
+		background-color: rgba(0, 0, 0, 0.8);
+
+		height: 80px;
+
+		border: none;
+
+}
+
+.container-header.ready {
+
+	background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+
+
+
+
+ul.nav.navbar-nav.navbar-main a {
+
+    color: white;
+
+    letter-spacing: 1px;
+
+}
+
+@media (max-width: 767px) {
+
+	.navbar-header-main .navbar-brand.navbar-brand-image > img {
+
+		max-height: 40px;
+
+		width: auto;
+
+	}
+
+}
+
+
+
+.navbar-main > li > a .bar {
+
+	background-color: #ffffff;
+
+}
+
+.container-header:not(.on-top) .navbar-main > li > a {
+
+	line-height: 70px;
+
+}
+
+
+
+
+
+section.footer-section .frame.default{
+
+	position: relative;
+}
+
+
+
+input#fe_ttaddress_email_input {
+
+    height: 26px;
+
+    width: 28%;
+
+    background-color: #779ab8;
+
+    border: none;
+
+    padding-left: 20px;
+
+    position: relative;
+
+    right: 0.9%;
+
+
+}
+
+i.fa.fa-paper-plane-o {
+
+    background-color: #95bdd7;
+
+    color: white;
+
+    padding-top: 4px;
+
+    font-size: 14px;
+
+    padding-left: 15px;
+
+    padding-bottom: 8px;
+
+    padding-right: -8px;
+
+    height: 100%;
+
+}
+
+
+
+input.btn_submit {
+
+    border: none;
+
+    width: 17%;
+
+    position: relative;
+
+    right: 1.5%;
+
+    height: 100%;
+
+    background-color: #95bdd7;
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+    font-size: 11px;
+
+    height: 26px;
+
+    padding-bottom: 0.5px;
+
+}
+
+
+/*
+
+ * navigation
+
+ */
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+
+	border: none;
+
+	position: fixed;
+
+	right: 0;
+
+	width: 100%
+
+}
+
+
+
+/*BUTTON*/
+
+.powermail_fieldwrap.powermail_fieldwrap_type_input.powermail_fieldwrap_tel.form-group label.control-label.col-sm-2{
+
+	display: none;
+
+}
+
+
+input.powermail_submit.btn.btn-primary {
+
+   border: 1px solid #8dbdd4;
+
+   background-color: #305985;
+
+   padding-left: 10%;
+
+   padding-right: 10%;
+
+   width: 100%;
+
+   font-family: "Alegreya Sans";
+
+}
+
+input#powermail_field_tel {
+
+    border: 1px solid #8dbdd4;
+
+}
+
+
+
+
+
+section.footer-section font {
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    font-size: 12px;
+
+}
+
+
+
+
+
+section.container.background-image {
+
+    background-image: url("../images/Frau.jpg");
+
+        width: 100%;
+
+    margin-bottom: 3%;
+
+    margin-top: 3%;
+
+}
+
+
+
+/*BLOG*/
+
+.row.news-list-item {
+
+    border-bottom: 1px solid black;
+
+    border-bottom-style: dashed;
+
+    border-spacing: 20px;
+
+}
+
+section#p10 .container h3>a {
+
+	color: #5e6465 !important;
+
+    text-decoration: none;
+
+    text-transform: none;
+
+    letter-spacing: 0.5px;
+
+    font-family: "Alegreya Sans";
+
+    font-size: 24px;
+
+}
+
+
+time{
+	font-size: 16px;
+	
+}
+
+
+
+.glyphicon.glyphicon-calendar{
+
+	color: #5e6465;
+
+}
+
+time{
+
+	color: #5e6465;
+
+}
+
+
+
+a.btn.btn-default.btn-read-more {
+
+    background-color: #305985;
+
+    color: white !important;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.5px;
+
+    padding-left: 35px;
+
+    padding-right: 35px;
+
+    padding-top: 2px;
+
+    padding-bottom: 2px;
+
+    font-size: 14px;
+
+}
+
+
+
+.footer-section a{
+
+	color: #c8d2db !important;
+
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+
+	color: white;
+
+}
+
+/*
+*ANFRAGE fast solution
+*TODO
+*/
+fieldset.powermail_fieldset.powermail_fieldset_10 legend.powermail_legend {
+    display: none;
+}
+fieldset.powermail_fieldset.powermail_fieldset_11 legend.powermail_legend {
+    display: none;
+}
+@media (min-width: 768px){
+	
+.powermail_fieldwrap.powermail_fieldwrap_type_input.powermail_fieldwrap_nachname.form-group input#powermail_field_nachname {
+    width: 100%;
+}
+.powermail_fieldwrap.powermail_fieldwrap_type_input.powermail_fieldwrap_land.form-group input#powermail_field_land {
+    width: 100%;
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_10 .powermail_fieldwrap.powermail_fieldwrap_type_content.powermail_fieldwrap_marker.form-group .col-sm-10.col-sm-offset-2 {
+    width: 100%;
+    margin-left: 0;
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_10 legend.powermail_legend {
+    display: none;
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_11 .powermail_fieldwrap.powermail_fieldwrap_type_content.powermail_fieldwrap_devider.form-group .col-sm-10.col-sm-offset-2 {
+    width: 100%;
+    margin-left: 0;
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_11 legend.powermail_legend {
+    display: none;
+}
+
+.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_einfamilienhaus.form-group label.control-label.col-sm-2 {
+
+    display: none;
+
+}
+
+form.powermail_form.powermail_form_2.form-horizontal {
+    padding-bottom: 40px;
+}
+
+
+
+.form-horizontal .radio, .form-horizontal .checkbox, .form-horizontal .radio-inline, .form-horizontal .checkbox-inline {
+
+    margin-top: 0;
+
+    margin-bottom: 14px;
+
+    padding-top: 7px;
+
+    display: block;
+
+    padding-left: 3%;
+
+    padding-bottom: 7px;
+
+}
+
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+
+    position: absolute;
+
+    margin-left: -50px;
+
+    margin-top: 4px;
+
+    width: 35px;
+
+    height: 35px;
+
+    top: -3px;
+
+    cursor: pointer;
+
+}
+
+.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_einfamilienhaus.form-group {
+
+    column-count: 4;
+
+
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_6{
+
+	float: left;
+
+	width: 50%;
+
+	}
+
+fieldset.powermail_fieldset.powermail_fieldset_6 legend.powermail_legend {
+
+    display: none;
+
+}
+
+/*anfrage - Adresse des Objetks */
+
+fieldset.powermail_fieldset.powermail_fieldset_9 legend.powermail_legend{
+
+	text-transform: uppercase;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_9 input#powermail_field_plz_01{
+
+	width:100%;
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_9 input#powermail_field_ort_01{
+
+	width:100%;
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_9 input#powermail_field_straehausnummer_01{
+
+	width:100%;
+
+}
+
+
+
+div#c267 .form-control {
+
+    width: 100%;
+
+    display: inline-block;
+
+}
+
+
+
+/*
+
+ * Anfrage - PERSÖNLICHE DATEN
+
+ */
+
+
+
+.powermail_fieldset{
+
+	display: block;
+	width: 100%;
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_vor_undnachname{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_telefon{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_email{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_plz{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_ort{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 input#powermail_field_straehausnummer{
+
+	width:100%;
+
+}
+
+
+
+/*
+
+ * anfrage -ANMERKUNGEN
+
+ */
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_4 textarea#powermail_field_anmerkungen{
+
+	width:100%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_4 input.powermail_submit.btn.btn-primary{
+
+	border: 1px solid #8dbdd4;
+
+    background-color: #305985;
+
+    padding-left: 5%;
+
+    padding-right: 5%;
+
+    width: auto;
+    
+    float: right;
+
+
+
+}
+
+
+
+/*
+ * rückrufservice
+ */
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_input.powermail_fieldwrap_tel.form-group .col-sm-10 {
+    margin-left: 33%;
+    width: 33%;
+}
+
+form.powermail_form.powermail_form_1.nolabel.form-horizontal .col-sm-10.col-sm-offset-2{
+	margin-left: 33%;
+	width: 33%;
+}
+
+section#p34 fieldset.powermail_fieldset.powermail_fieldset_1.nolabel label.control-label.col-sm-2{
+
+	display: none;
+
+}
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_select.powermail_fieldwrap_anrede.form-group .col-sm-10 {
+
+    width: 15%;
+
+}
+
+
+
+label.control-label.col-sm-2 {
+
+    font-family: "Alegreya Sans";
+
+}
+
+legend.powermail_legend {
+
+	font-family: "Alegreya Sans";
+	border: none;
+
+}
+
+select#powermail_field_anrede {
+
+    font-family: "Alegreya Sans";
+
+}
+
+.radio label, .checkbox label {
+
+    min-height: 24px;
+
+    padding-left: 40px;
+
+    margin-bottom: 0;
+
+    font-weight: normal;
+
+    cursor: pointer;
+
+    font-family: "Alegreya Sans";
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_6.layout1 label.control-label.col-sm-2 {
+
+    width: 37%;
+
+    background-color: #E0E0E0;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_7.layout1 label.control-label.col-sm-2 {
+
+    width: 30%;
+
+    background-color: #E0E0E0;
+
+}
+
+
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_7.layout1 {
+
+    width: 50%;
+
+    display: inline-block;
+
+}
+
+.powermail_fieldwrap.powermail_fieldwrap_type_input.powermail_fieldwrap_anderes.form-group label.control-label.col-sm-2 {
+
+    width: 19%;
+
+    background-color: #E0E0E0;
+
+}
+
+label.control-label.col-sm-2{
+
+	background-color: #E0E0E0;
+
+}
+
+
+
+form.powermail_form.powermail_form_2.form-horizontal label {;
+
+    font-weight: normal;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_9 .col-sm-10 {
+
+    width: 83%;
+
+}
+
+select#powermail_field_anrede{
+
+	width: 50%;
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_3 {
+
+    margin-top: 2%;
+
+}
+
+
+
+fieldset.powermail_fieldset.powermail_fieldset_3 .col-sm-10 {
+
+    width: 83%;
+
+}
+
+fieldset.powermail_fieldset.powermail_fieldset_7.layout1 legend.powermail_legend {
+
+    display: none;
+
+}
+
+
+
+input#powermail_field_anderes {
+
+    width: 49% !important;
+
+}
+
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_radiobuttons_01.form-group label.control-label.col-sm-2 {
+
+    display: none;
+
+}
+
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_radiobuttons_01.form-group {
+
+    column-count: 3;
+
+    margin-bottom: 9px;
+
+    margin-right: 12%;
+
+    margin-left: -1%;
+
+}
+
+.powermail_fieldwrap.powermail_fieldwrap_type_submit.powermail_fieldwrap_abschricken.form-group .col-sm-10.col-sm-offset-2 {
+
+    width: 100%;
+
+    margin-left: 0;
+
+}
+
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_textarea.powermail_fieldwrap_anmerkungen.form-group .col-sm-10 {
+
+    width: 100%;
+
+}
+
+}
+
+
+
+.powermail_fieldwrap.powermail_fieldwrap_type_textarea.powermail_fieldwrap_anmerkungen.form-group label.control-label.col-sm-2 {
+
+    display: none;
+
+}
+
+
+
+form.powermail_form.powermail_form_2.form-horizontal h3 {
+
+    display: none;
+
+}
+
+
+
+
+
+@media (min-width: 768px){
+
+.form-horizontal .control-label {
+
+    text-align: left;
+
+    padding-bottom: 6px;
+
+    padding-top: 7px;
+
+    margin-bottom: 0;
+
+}
+
+.col-sm-10 {
+
+    width: 50%;
+
+}
+
+}
+
+
+
+@media (min-width: 768px){
+
+section.container.mail .col-sm-10 {
+
+    width: 100%;
+
+}}
+
+
+
+
+
+.panel-default > .panel-heading {
+
+    color: #ffffff;
+
+    background-color: #57A7CC;
+
+    border-color: #dddddd;
+
+}
+
+
+
+div#c219 h4.text-center {
+
+    display: none;
+
+}
+
+
+
+div#c219 h1.text-center {
+
+    color: white;
+
+}
+
+
+
+div#c219 h1.text-center {
+
+    color: white;
+
+    font-weight: normal;
+
+}
+
+div#c158 a {
+    text-transform: none;
+}
+
+
+
+/*RESPONSIVE FOOTER*/
+div#c158 img {
+    margin-right: 0px;
+    margin-top: 20px;
+}
+@media (max-width: 1200px){
+div#c158 .col-md-6 {
+    padding-right: 0;
+}
+div#c158 .col-md-12 {
+    padding-right: 0;
+}
+
+
+input.btn_submit {
+
+    border: none;
+
+    width: 17%;
+
+    position: relative;
+
+    right: 0px;
+
+    height: 25px;
+
+    background-color: #95bdd7;
+
+    color: white;
+
+    font-family: "Alegreya Sans";
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+    font-size: 10px;
+
+    width: 100%;
+
+}
+
+.footer-section {
+
+    background-image: url(../images/Bluefooter.jpg);
+
+    border-top: none;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    background-position: center;
+
+}
+
+
+
+input#fe_ttaddress_email_input {
+
+    height: 100%;
+
+    width: 75%;
+
+    background-color: #779ab8;
+
+    border: none;
+
+    padding-left: 20px;
+
+    position: relative;
+
+    right: 0px;
+
+    width: 100%;
+
+    
+
+}
+
+i.fa.fa-paper-plane-o {
+
+	display: none;
+
+}
+
+}
+
+@media (max-width: 991px){
+
+div#c306 {
+
+    margin-bottom: 40px;
+
+    margin-top: 40px;
+
+    margin-left: 0px;
+
+    margin-right: 0px;
+
+
+
+}
+
+@media (max-width: 767px) {
+div#c158 {
+    width: auto;
+    right: 0;
+    margin-top: 0px;
+}
+	
+}
+
+
+
+section.container.mail {
+
+    margin-top: -52px;
+
+}
+
+section.footer-section .image > img, section.footer-section .image a > img{
+
+	margin: 0;
+
+}
+
+
+}
+
+
+
+/*
+
+ * cookie alert
+
+ */
+
+#cc-notification #cc-notification-wrapper {
+    padding: 15px 15px !important;
+}
+
+#cc-notification ul.cc-notification-buttons li a, #cc-notification ul.cc-notification-buttons li a:visited {
+
+    margin-top: 8px !important;
+
+    margin-bottom: 6px !important;
+
+    display: block;
+
+    padding: 8px 16px !important;
+
+    background-color: #305985 !important;
+
+    color: #fff !important;
+
+    margin-right: 12px !important;
+
+    text-decoration: none !important;
+
+    font-size: 12pt !important;
+
+    font-weight: 600;
+
+    letter-spacing: -0.05em;
+
+    border-radius: 0px !important;
+
+    -moz-border-radius: 0px !important;
+
+    -webkit-border-radius: 0px !important;
+
+    transition: background 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, box-shadow 0.2s ease-in-out 0s;
+
+    -moz-transition: background 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, -moz-box-shadow 0.2s ease-in-out 0s;
+
+    -webkit-transition: background 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s, -webkit-box-shadow 0.2s ease-in-out 0s;
+
+}
+
+#cc-notification ul.cc-notification-buttons li a:hover, #cc-notification ul.cc-notification-buttons li a:active, #cc-notification ul.cc-notification-buttons li #cc-approve-button-allsites:hover, #cc-notification ul.cc-notification-buttons li #cc-approve-button-allsites:active {
+
+    text-decoration: none !important;
+
+    background-color: #305985!important;
+
+    box-shadow: 1px 2px 10px #000;
+
+    -moz-box-shadow: 1px 2px 10px #000;
+
+    -webkit-box-shadow: 1px 2px 10px #000;
+
+}
+
+#cc-tag a:hover, #cc-tag a:active {
+
+    border-top: 3px solid #fff !important;
+
+    border-right: 3px solid #ffffff !important;
+
+    border-left: 3px solid #ffffff !important;
+
+    box-shadow: 2px 2px 7px #000;
+
+    -moz-box-shadow: 2px 2px 7px #000;
+
+    -webkit-box-shadow: 2px 2px 7px #000;
+
+}
+
+a#cc-tag-button {
+
+    display: none;
+
+}
+
+div#cc-notification span {
+    font-size: 10pt;
+}
+
+
+/*
+
+ * newsletter focus
+
+ */
+
+input#fe_ttaddress_email_input:focus {
+
+    outline: none;
+
+}
+und das frisst der outlook?
+.newsletter:focus {
+
+    border: none;
+
+    outline: none;
+
+}
+
+input.btn_submit:focus {
+
+    outline: none;
+
+}
+
+.morgen-icon img {
+    width: 100%;
+}
+.icon-btn {
+    padding-bottom: 40px;
+}
+.bg-light-grey .image > img, .bg-light-grey .image a > img,
+.bg-darker-grey .image > img, .bg-darker-grey .image a > img,
+.sogehts-bg-dark-grey .image > img, .sogehts-bg-dark-grey .image a > img,{
+	width: 80px;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > strong > a, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > strong > a:hover, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > strong > a:focus, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > a, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > a:hover, .tx-indexedsearch-browsebox > .tx-indexedsearch-browselist-currentPage > a:focus{
+	background-color: #305985;
+    border-color: #305985;
+}
+
+.bg-vorteile-light-grey, .bg-vorteile-darker-grey, .bg-vorteile-dark-grey {
+    padding-bottom: 20px;
+}

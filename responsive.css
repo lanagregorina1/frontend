@@ -1,0 +1,213 @@
+@media (min-width: 1200px) {
+	/*
+	 * header logo
+	 */
+	.navbar-header-main .navbar-brand.navbar-brand-image > img {
+	    display: none;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	i.fa.fa-facebook-square {
+	    margin-top: 25px;
+	}
+	/*
+	 * header logo
+	 */
+	a.navbar-brand.navbar-brand-image {
+     display: none; 
+	}
+	section.container.bg-color-darkblue .col-md-6 .frame.default {
+	    min-height: 100%;
+	    margin-bottom: 44px;
+	    display: -webkit-inline-box;
+	}
+	section.container.bg-color-darkblue .col-md-6:nth-child(2n) {
+	    border-left: none;
+	    border-right: none;
+	}
+	section.container.bg-color-darkblue .col-md-6{
+		height: 100%;
+		width: 100%;
+		border: none;
+	}
+	section.container.bg-color-darkblue {
+	    height:  100%;
+	    margin-bottom: 6%;
+	    margin-top: 6%;
+	    border: none;
+	}
+	section.container.bg-color-darkblue .col-md-4 {
+	    height: 100%;
+	    padding: 0;
+	    border: none;
+	}
+	.fa {
+	    letter-spacing: 18px;
+	}
+	.footer-section .image {
+	      
+    	padding-right: 30px;
+   
+    	padding-top: 23px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	div#c158 .col-md-6:last-child{
+		border: none;
+	}
+	.footer-section .fa {
+	    padding-top: 8px;
+	    letter-spacing: 0px;
+	    padding-left: 22px;
+	}
+	.detali-news-photo img {
+	    width: 100%;
+	    height: auto;
+	}
+	
+	fieldset.powermail_fieldset.powermail_fieldset_3 select#powermail_field_anrede {
+	    width: 100%;
+	}
+	section.container.bg-color-darkblue .col-md-6{
+		height: 100%;
+		width: 100%;
+		border: none;
+	}
+	section.container.bg-color-darkblue {
+	    height:  100%;
+	   
+	    margin-bottom: 6%;
+	    margin-top: 6%;
+	    border: none;
+	}
+	section.container.bg-color-darkblue .col-md-4 {
+	    height: 100%;
+	    padding: 0;
+	    border: none;
+	}
+	section.container.bg-color-darkblue .col-md-6 .frame.default {
+	    min-height: 0;
+	    margin-bottom: 25px;
+	    border-bottom: 1px solid #eeeeee;
+	}
+	div#c380, div#c402, div#c396, div#c389
+	{
+		border-bottom: 1px solid #eeeeee;
+	}
+}
+@media (max-width: 767px) {
+	.footer-section .fa {
+	    margin-top: 0px; 
+	    padding-top: 0;
+	}
+	fieldset.powermail_fieldset.powermail_fieldset_7.layout1 legend.powermail_legend{
+		display: none;
+	}
+	fieldset.powermail_fieldset.powermail_fieldset_9 legend.powermail_legend{
+		text-transform: uppercase;
+	}
+	div#c158 .col-md-6:last-child{
+		border-left: none !important;
+	}
+	.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+	    width: 30px;
+	    height: 30px;
+	    margin-left: -37px;
+	    bottom: -2px;
+	}	/*	*fast powermail fix	*TODO	*/
+	fieldset.powermail_fieldset.powermail_fieldset_3 select#powermail_field_anrede {
+	    width: 100%;
+	}
+	.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_einfamilienhaus.form-group {
+	    margin-left: 5px;
+	}
+	.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_radiobuttons_01.form-group{
+		margin-left: 5px;
+	}
+	.powermail_fieldwrap.powermail_fieldwrap_type_radio.powermail_fieldwrap_radiobuttons_01.form-group label.control-label {
+	    display: none;
+	}
+	
+	section.container.bg-color-darkblue .col-md-6{
+		height: 100%;
+		width: 100%;
+		border: none;
+	}
+	section.container.bg-color-darkblue {
+	    height:  100%;
+	    border-left: 1px solid #eeeeee;
+	    margin-bottom: 6%;
+	    margin-top: 6%;
+	    border: none;
+	}
+	section.container.bg-color-darkblue .col-md-4 {
+	    height: 100%;
+	    padding: 0;
+	    border: none;
+	}
+	section.container.bg-color-darkblue .col-md-6 .frame.default {
+	    min-height: 0;
+	    margin-bottom: 25px;
+	    border-bottom: 1px solid #eeeeee;
+	}
+	h1.text-center {
+	    font-size: 30px;
+	}
+	h4 {
+	    font-size: 20px;
+	    color: #5E646E;
+	}
+	.row.header {
+	    top: calc(100vh - 225px);
+	    width: 100%;
+	}
+}
+@media(max-width: 768px){
+	.bg-vorteile-light-grey, .bg-vorteile-darker-grey, .bg-vorteile-dark-grey {
+	    padding-top: 10px;
+	}
+	.bg-vorteile-light-grey .frame.default,
+	.bg-vorteile-darker-grey .frame.default,
+	.bg-vorteile-dark-grey .frame.default{
+	    margin-top: 15px;
+	    margin-bottom: 15px;
+	}
+	div#c158 .col-md-6:last-child {
+	   border-left: none !important;;
+	}
+}
+@media(max-width: 507px){
+	#cc-notification #cc-notification-permissions li {
+	    width: 100% !important;
+	    margin-right: 0 !important;
+	}
+	.morgen-icon {
+	    margin-top: 25px;
+	}
+	.icon-btn {
+	    padding-bottom: 73px !important;
+	}
+	.row.header h1.text-center, .row.header h2.text-center {
+	    margin-top: 10px;
+	    font-size: 30px;
+	    border-bottom: 1px solid white;
+	}
+	.row.header p.text-center {
+	    font-size: 18px;
+	}
+	.footer-section .fa {
+	    padding-top: 15px !important;
+	}
+}
+@media(max-width: 320px){
+	.row.header {
+	    top: calc(100vh - 217px);
+	    width: 100%;
+	}
+	.row.header h1.text-center{
+		font-size: 37px !important;
+	}
+	.footer-section .fa {
+	    font-size: 27px;
+	}
+}

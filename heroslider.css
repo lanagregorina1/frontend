@@ -1,0 +1,402 @@
+.carousel-header {
+	height: 45vh;
+}
+
+.carousel-header.carousel-full-screen {
+	height: 100vh;
+}
+
+.carousel-header .carousel-inner {
+	height: 100%;
+}
+
+.carousel-header .carousel-inner .item {
+	height: 100%;
+	background-color: #fff !important;
+}
+
+
+.carousel-header .carousel-inner .item .slider-hero-image {
+	position: absolute;
+	left: 0;
+	top: 0;
+
+	min-height: 100%;
+	min-width: 100%;
+	width: auto;
+	height: auto;
+	max-width: inherit;
+	max-height: inherit;
+
+	background-size: cover;
+  background-position: 50% 50%;
+
+	-webkit-transition : -webkit-filter 2000ms linear;
+	transition : filter 2000ms linear;
+}
+
+.carousel-header .carousel-inner .item .slider-hero-image.blured {
+	-webkit-filter: blur(20px);
+	filter: blur(20px);
+}
+
+
+.carousel-header .slider-morgen-logo {
+	position: absolute;
+	top: 80px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+
+
+.carousel-header.carousel-full-screen .slider-morgen-logo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+
+.carousel-header.carousel-full-screen .item .slider-slogan-before {
+	position: absolute;
+	display: block;
+	margin: auto;
+	text-align: right;
+	text-transform: uppercase;
+	font-family: "Alegreya Sans";
+}
+
+.carousel-header.carousel-full-screen .item .slider-slogan-after {
+	position: absolute;
+	display: block;
+	margin: auto;
+	text-align: left;
+	text-transform: uppercase;
+	font-family: "Alegreya Sans";
+}
+
+.carousel-header .carousel-inner .item .slider-slogan-before {
+	position: absolute;
+	display: block;
+	margin: auto;
+	text-align: right;
+	text-transform: uppercase;
+	font-family: "Alegreya Sans";
+}
+
+
+.carousel-header .carousel-inner .item .slider-slogan-after {
+	position: absolute;
+	display: block;
+	margin: auto;
+	text-align: left;
+	text-transform: uppercase;
+	font-family: "Alegreya Sans";
+}
+
+.carousel-header .carousel-inner .item .slider-slogan-before,
+.carousel-header .carousel-inner .item .slider-slogan-after {
+	-webkit-transition: opacity 500ms ease-in-out;
+	-moz-transition: opacity 500ms ease-in-out;
+	-ms-transition: opacity 500ms ease-in-out;
+	-o-transition: opacity 500ms ease-in-out;
+	transition: opacity 500ms ease-in-out;
+}
+
+.carousel-header .carousel-inner .item .slider-slogan-before.animate-in,
+.carousel-header .carousel-inner .item .slider-slogan-after.animate-in {
+	opacity: 0;
+}
+
+
+
+/**
+ * 	Slider Overlay
+ */
+
+.row.header {
+	position: absolute;
+	top: calc(100vh - 224px);
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 721px;
+	color: #fff;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.row.header:not(.active) {
+	opacity: 1;
+}
+
+ol.carousel-indicators {
+    display: none;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background: none;
+	text-shadow: 4px 1px 4px rgba(0, 0, 0, 1);
+}
+
+/*responsive*/
+@media (min-width: 1200px) {
+	.carousel-header img.slider-morgen-logo{
+		width: 450px;
+	}
+	.carousel-header.carousel-full-screen img.slider-morgen-logo{
+		width: 550px;
+	}
+
+	.carousel-header .carousel-inner .item .slider-slogan-before {
+		left: 0;
+	    right: 135px;
+	    top: 185px;
+	    bottom: 0;
+	    width: 200px;
+	    height: 30px;
+	    font-size: 30px;
+	}
+
+	.carousel-header .carousel-inner .item .slider-slogan-after {
+		left: 450px;
+		right: 10px;
+		top: 185px;
+		bottom: 0;
+		width: 310px;
+		height: 30px;
+		font-size: 30px;
+	}
+
+	.carousel-header.carousel-full-screen .item .slider-slogan-before {
+		left: 0;
+		right: 120px;
+		top: 150px;
+		bottom: 0;
+		width: 200px;
+		height: 30px;
+		font-size: 30px;
+	}
+
+	.carousel-header.carousel-full-screen .item .slider-slogan-after {
+		left: 450px;
+		right: 0;
+		top: 150px;
+		bottom: 0;
+		width: 310px;
+		height: 30px;
+		font-size: 30px;
+	}
+
+	.carousel-header.carousel-full-screen .item .slider-slogan-before {
+		left: 0;
+		right: 120px;
+		top: 150px;
+		bottom: 0;
+		width: 200px;
+		height: 30px;
+		font-size: 30px;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+	.carousel-header .carousel-inner .item .slider-slogan-before {
+		left: 0;
+	    right: 135px;
+	    top: 153px;
+	    bottom: 0;
+	    width: 200px;
+	    height: 0px;
+	    font-size: 28px;
+	}
+
+	.carousel-header .carousel-inner .item .slider-slogan-after {
+		left: 328px;
+	    right: 0;
+	    top: 153px;
+	    bottom: 0;
+	    width: 200px;
+	    height: 0px;
+	    font-size: 28px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+ .carousel-header img.slider-morgen-logo{
+		width: 450px;
+	}
+	.carousel-header.carousel-full-screen img.slider-morgen-logo{
+		width: 450px;
+	}
+	.carousel-header.carousel-full-screen .item .slider-slogan-before {
+		left: 0;
+		right: 135px;
+		top: 100px;
+		bottom: 0;
+		width: 200px;
+		height: 0px;
+		font-size: 26px;
+	}
+	.carousel-header.carousel-full-screen .item .slider-slogan-after {
+		left: 325px;
+		right: 0;
+		top: 100px;
+		bottom: 0;
+		width: 200px;
+		height: 0px;
+		font-size: 26px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+ .carousel-header img.slider-morgen-logo{
+		width: 450px;
+	}
+	.carousel-header.carousel-full-screen img.slider-morgen-logo{
+		width: 450px;
+	}
+	.carousel-header.carousel-full-screen .item .slider-slogan-before {
+		left: 0;
+		right: 135px;
+		top: 100px;
+		bottom: 0;
+		width: 200px;
+		height: 0px;
+		font-size: 26px;
+	}
+	.carousel-header.carousel-full-screen .item .slider-slogan-after {
+		left: 325px;
+		right: 0;
+		top: 100px;
+		bottom: 0;
+		width: 200px;
+		height: 0px;
+		font-size: 26px;
+  }
+
+}
+
+
+@media (max-width: 767px), (max-height: 599px) {
+	.container-header.ready:not(.on-top) {
+		height: 84px;
+	}
+	.carousel-header img.slider-morgen-logo{
+		width: 200px;
+	}
+	.carousel-header.carousel-full-screen img.slider-morgen-logo{
+		width: 200px;
+	}
+	.carousel-header .carousel-inner .item .slider-morgen-logo {
+		display: none;
+	}
+
+
+	/*text on the homepage*/
+	.carousel-header.carousel-full-screen .item .slider-slogan-before {
+		left: 0;
+	    right: 0;
+	    top: -6.55em !important;
+	    bottom: 0;
+	    width: 100%;
+	    height: 1.55em;
+	    font-size: 35px !important;
+	    text-align: center;
+   }
+   .carousel-header.carousel-full-screen .item .slider-slogan-after {
+	    left: 0;
+	    right: 0;
+	    top: -1.9em !important;
+	    bottom: 0;
+	    width: 200px;
+	    height: 3.1em;
+	    font-size: 35px !important;
+	    text-align: center;
+	  }
+
+
+	/* text on the subpages*/
+	.carousel-header .carousel-inner .item .slider-slogan-before {
+		left: 0;
+	    right: 0;
+	    top: -0.55em;
+	    bottom: 0;
+	    width: 100%;
+	    height: 1.55em;
+	    font-size: 45px;
+	    text-align: center;
+   }
+
+	.carousel-header .carousel-inner .item .slider-slogan-after {
+	    left: 0;
+	    right: 0;
+	    top: 3.1em;
+	    bottom: 0;
+	    width: 200px;
+	    height: 3.1em;
+	    font-size: 45px;
+	    text-align: center;
+  }
+  
+  /*page 47 with special slogan*/
+  #page-47 .carousel-header .carousel-inner .item .slider-slogan-after {
+	    left: 0;
+	    right: 0;
+	    top: 3.1em;
+	    bottom: 0;
+	    width: 200px;
+	    height: 3.1em;
+	    font-size: 35px;
+	    text-align: center;
+  }
+
+
+	.container-header.ready:not(.on-top) {
+	    height: 84px;
+	}
+
+	.row.header {
+		width: 100%;
+	}
+
+	.row.header .fa {
+		font-size: 30px;
+		color: white;
+	}
+
+	.row.header h1.text-center, .row.header h2.text-center {
+	    margin-top: 22px;
+	    font-size: 21px;
+	    border-bottom: 1px solid white;
+	}
+	.row.header p.text-center {
+    font-size: 15px;
+	}
+
+}
+
+
+@media (max-width: 767px) and (max-height: 400px) {
+	.carousel-header .carousel-inner .item .slider-slogan-before {
+  	display: none;
+	}
+	.carousel-header .carousel-inner .item .slider-slogan-after {
+		display: none;
+	}
+}
+
+
+@media (max-width: 612px){
+	.row.header {
+	    top: calc(100vh - 225px);
+	    width: 100%;
+	}
+	.row.header .frame.default {
+	    margin-bottom: 0px !important;
+	    margin-top: 0px !important;
+	}
+}
